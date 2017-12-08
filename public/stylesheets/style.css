@@ -1,8 +1,10 @@
 body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+    padding-top: 45px;
 }
 
-a {
-  color: #00B7FF;
+#side-menu {
+    padding-left: 30px;
+    min-height: 100vh;
+    background-color: #ecf0f1;
+    color: #34495e;
 }
